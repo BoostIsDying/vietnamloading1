@@ -118,9 +118,6 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "1.ogg", name: "Creedence Clearwater Revival: Fortunate Son"},
-	{ogg: "2.ogg", name: "AC/DC - Back In Black"},
-	{ogg: "3.ogg", name: "The Rolling Stones - Paint It, Black"},
 ];
 
 // Random music order?
